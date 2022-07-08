@@ -1,0 +1,1 @@
+INSERT INTO `supplyer`(`firstname`, `last_name`, `email`) VALUES ('Kate', 'Mykhail', 'km@qa.com');
